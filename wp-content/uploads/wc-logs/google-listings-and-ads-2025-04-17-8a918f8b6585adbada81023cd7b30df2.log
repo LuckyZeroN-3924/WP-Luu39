@@ -1,0 +1,17 @@
+2025-04-17T13:29:22+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:24+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:24+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:26+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:26+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:26+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:26+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\WP\OAuthService::deactivate Error revoking the WPCOM token: 
+2025-04-17T13:29:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
